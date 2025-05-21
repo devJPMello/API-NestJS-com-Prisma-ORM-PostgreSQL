@@ -21,8 +21,7 @@ API RESTful desenvolvida com NestJS, Prisma ORM e PostgreSQL (NeonDB), com dois 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
-cd seu-projeto
+git clone https://github.com/devJPMello/API-NestJS-com-Prisma-ORM-PostgreSQL
 ```
 
 2. Instale as dependências:
